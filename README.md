@@ -7,7 +7,7 @@
 
 Short one page website that was created duing self-paced learning. Uses Bootstrap 4 to manipulate the site. NOTE: Navigation buttons do not work. 
 
-Site published at https://bikmanas.github.io/Museum-of-candy/
+Site published at https://bikmanas.github.io/museum-of-candy/
 
 ## Project features
 - HTML
